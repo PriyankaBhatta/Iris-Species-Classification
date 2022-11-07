@@ -1,9 +1,9 @@
 # Iris-Species-Classification
 Iris dataset is the Hello World for the Data Science, so if you have started your career in Data Science and Machine Learning you will be practicing basic ML algorithms on this famous dataset. Iris dataset contains five columns such as Petal Length, Petal Width, Sepal Length, Sepal Width and Species Type.
 
-Iris is a flowering plant, the researchers have measured various features of the different iris flowers and recorded digitally
+Iris is a flowering plant, the researchers have measured various features of the different iris flowers and recorded digitally.
 
-The iris dataset contains the following data
+The iris dataset contains the following data:
 
 a. 50 samples of 3 different species of iris (150 samples total)
 
